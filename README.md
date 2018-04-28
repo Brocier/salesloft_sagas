@@ -2,6 +2,8 @@
 
 This is my attempt to rebuild the group project, City Point, using Saga instead of Thunk.
 
+<https://github.com/redux-saga/redux-saga>
+
 <https://salesloft-sagas.herokuapp.com/>
 
 The Original:
