@@ -1,5 +1,5 @@
 {
-  "name": "salesloft-sagas",
+  "name": "salesloft_sagas",
   "engines": {
     "node": "8.7.0"
   },
